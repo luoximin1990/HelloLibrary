@@ -5,6 +5,6 @@ package com.example.library;
  */
 public class CustomUtil {
     public static String getMyHello() {
-        return "I'm hellolibrary v2.0.0 ~ ";
+        return "I'm hellolibrary v2.0.0 !!! ";
     }
 }
